@@ -4,8 +4,8 @@ A repository containing a few examples of my recent, non-confidential technical 
 
 ## Graphic design
 
-Image files illustrating architectures, process flows and product concepts.
+Image files illustrating architectures, process flows and product concepts (filename prefix: **mm-graphic-design**.)
 
 ## Long-form documents
 
-Multi-topic, long-form documents covering **Cloud Computing** and **API** technology.
+Multi-topic, long-form documents covering **Cloud Computing** and **API** technology (filename prefix: **mm-long-form**.)
