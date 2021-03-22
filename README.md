@@ -6,6 +6,6 @@ A repository containing a few examples of my recent, non-confidential technical 
 
 Image files illustrating architectures, process flows and product concepts (filename prefix: **mm-graphic-design**.)
 
-## Long-form documents
+## Long-form
 
-Multi-topic, long-form documents covering **Cloud Computing** and **API** technology (filename prefix: **mm-long-form**.)
+Multi-topic, long-form documents covering **Cloud Computing** and **API** technology (filename prefix: **mm-long-form**.) These documents contain additional architecture and process flow diagrams.
