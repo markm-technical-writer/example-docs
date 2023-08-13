@@ -1,11 +1,13 @@
 # example-docs
 
-A repository containing a few examples of my recent, non-confidential technical writing, categorised as **graphic-design** and **long-form**.
+A repository containing a few examples of my non-confidential technical writing categorised as **graphic-design** and **long-form**.
 
 ## Graphic design
 
-Image files illustrating architectures, process flows and product concepts (filename prefix: **mm-graphic-design**.)
+Image files illustrating architectures, process flows and product concepts (filename prefix: **mm-graphic-design**.) 
+
+> These are designed to be impactful and engaging rather than practical. See long-form documents for examples of practical graphic design.
 
 ## Long-form
 
-Multi-topic, long-form documents covering **Cloud Computing** and **API** technology (filename prefix: **mm-long-form**.) These documents contain additional architecture and process flow diagrams.
+Long-form documents covering **Cloud Computing**, **APIs**, and **graphic design** (filename prefix: **mm-long-form**.)
